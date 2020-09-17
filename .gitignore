@@ -3,3 +3,8 @@
 ################################################################################
 
 /SecureApi/SecureApi.AzureActiveDirectory/.vs/SecureApi.AzureActiveDirectory/v16
+/SecureApi/SecureApi.AzureActiveDirectory/SecureApi.AzureActiveDirectory/bin/Debug/netcoreapp3.1
+/SecureApi/SecureApi.AzureActiveDirectory/SecureApi.AzureActiveDirectory/obj/Debug/netcoreapp3.1
+/SecureApi/SecureApi.AzureActiveDirectory/SecureApi.AzureActiveDirectory/obj
+/SecureApi/SecureApiClient/bin/Debug/netcoreapp3.1
+/SecureApi/SecureApiClient/obj
